@@ -1,0 +1,112 @@
+[
+  {
+    "name": "tags",
+    "type": "tags",
+    "options": null
+  },
+  {
+    "name": "Status",
+    "type": "list",
+    "options": [
+      "Draft",
+      "In Progress",
+      "Under Review",
+      "Published"
+    ]
+  },
+  {
+    "name": "Word Count",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "Due Date",
+    "type": "date",
+    "options": null
+  },
+  {
+    "name": "Last Edited",
+    "type": "datetime",
+    "options": null
+  },
+  {
+    "name": "Published",
+    "type": "checkbox",
+    "options": null
+  },
+  {
+    "name": "Author",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "guest",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "title",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "youtube_url",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "video_id",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "publish_date",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "description",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "duration_seconds",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "duration",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "view_count",
+    "type": "number",
+    "options": null
+  },
+  {
+    "name": "channel",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "keywords",
+    "type": "list",
+    "options": null
+  },
+  {
+    "name": "spotify_url",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "spotify_id",
+    "type": "string",
+    "options": null
+  },
+  {
+    "name": "oct.related",
+    "type": "list",
+    "options": null
+  }
+]
